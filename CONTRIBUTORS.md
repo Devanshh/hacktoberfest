@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Devansh Agarwal]([GitHub link](https://github.com/Devanshh))
+- Place: Delhi, India
+- Bio: Project Manager, Service Delivery and Support
+- GitHub: [Devanshh](https://github.com/Devanshh)
